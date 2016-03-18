@@ -1,4 +1,4 @@
-# python parser for translating html to bibtex 
+# python parser for converting a very specific publications page from html to bibtex 
 # author : Eleni Kaxiras
 # thanks Beautiful Soup!
 
